@@ -22,7 +22,7 @@ or
 
 ### Test
 
-- `git clone https://git.kaki87.net/KaKi87/ig-scraper.git`
+- `git clone https://github.com/VisalPaing/ig-scrapper.git`
 - `yarn install` or `npm install`
 - `yarn test` or `npm run test`
 
